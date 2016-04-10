@@ -11,7 +11,7 @@ with open("README.rst", 'r') as readme:
 dependencies = [
     'pyexcel>=0.2.0',
     'pyexcel-webio>=0.0.6',
-    'Django>=1.7.1',
+    'Django>=1.4.22',
 ]
 
 extras = {
